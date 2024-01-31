@@ -4,14 +4,18 @@
 
 format: jb-book
 root: index
-options:
+parts:
+- caption: "Over de module"
+  chapters:
+  - file: write_up
+- caption: "Informatie"
   numbered: true
-chapters:
-- file: fundamentals
-- file: networking
-- file: osi
-- file: security_goals
-- file: netwerken_sniffen
-- file: port_scanning
-- file: sql_injection
-- file: xss
+  chapters:
+  - file: fundamentals
+  - file: networking
+  - file: osi
+  - file: security_goals
+  - file: netwerken_sniffen
+  - file: port_scanning
+  - file: sql_injection
+  - file: xss
