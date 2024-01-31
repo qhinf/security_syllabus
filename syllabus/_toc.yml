@@ -7,6 +7,11 @@ root: index
 options:
   numbered: true
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: fundamentals
+- file: networking
+- file: osi
+- file: security_goals
+- file: netwerken_sniffen
+- file: port_scanning
+- file: sql_injection
+- file: xss
