@@ -3,6 +3,7 @@
 
 # TODO: Verander de titel!
 title: "Security: Capture the Flag"
+banner: assets/banner.png
 
 # Auteur is verplicht, maar wordt voor de syllabus site automatisch aangepast op
 # basis van de commitgeschiedenis.
