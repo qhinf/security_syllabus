@@ -61,7 +61,7 @@ Zelf sniffen
 ---------------------------------
 
 Download en installeer Wireshark op [https://www.wireshark.org/download.html](https://www.wireshark.org/download.html) met de standaardinstellingen.
-Download de capture-file op [https://ctf.q-highschool.nl/capture.pcap](https://ctf.q-highschool.nl/capture.pcap)
+Download de capture-file bij de Downloads op {{ ctf_site }}
 en open hem met Wireshark. Zoek in dit bestand de vlag.
 
 Links

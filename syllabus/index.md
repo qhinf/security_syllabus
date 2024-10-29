@@ -9,15 +9,15 @@ Je gaat in deze module praktisch aan de slag: de opdracht is om een website te h
 
 Naast deze CtF website hebben we ook een scorebord: daarop kun je zien welke challenges beschikbaar zijn en kun je controleren of je de juiste flag hebt gevonden. Voor de beoordeling moet je ook een write-up inleveren: daarin leg je uit hoe je iedere flag gevonden hebt en voeg je een screenshot van die flag op de website toe. Denk er dus aan dat je tijdens het hacken bijhoudt wat je doet, want: geen screenshots, geen punten! Zie {doc}`write_up` voor meer informatie.
 
-De deadline voor het inleveren van je write-up is **{{ deadline }}** (via [app.q-highschool.nl](https://app.q-highschool.nl)). Je mag ook gebruik maken van het tweede inlevermoment op **{{ deadline_uitstel }}**, mocht die eerste deadline jou bijzonder slecht uitkomen. Als je dat wilt, laat dat dan voor **{{ deadline_uitstel_aanvragen }}** weten bij je docent.
+De deadline voor het inleveren van je write-up is **{{ eerste_inlevermoment }}** (via [app.q-highschool.nl](https://app.q-highschool.nl)). Je mag ook gebruik maken van het tweede inlevermoment op **{{ tweede_inlevermoment }}**, mocht die eerste deadline jou bijzonder slecht uitkomen. Als je dat wilt, laat dat dan voor **{{ tweede_inlevermoment_melden }}** weten bij je docent.
 
-- De CtF site: [ctf.q-highschool.nl](https://ctf.q-highschool.nl)
+- De CtF site: {{ ctf_site }}
 
   Dit is de website die je mag hacken. Voor alle andere websites (ja, **alle** andere websites) heb je van ons geen toestemming. Hacken zonder toestemming is *[computervredebreuk](https://www.om.nl/onderwerpen/cybercrime/hack_right/wetsartikel-computervredebreuk)*, een misdrijf volgens het Wetboek van Strafrecht.
 
   Op deze server mag je veel uitproberen, maar het is nog steeds niet toegestaan om de server opzettelijk te vernielen of je klasgenoten te hinderen bij het uitvoeren van hun opdracht. Bij vermoedens van opzettelijke sabotage zullen we een onderzoek instellen en, indien nodig, passende maatregelen nemen.
 
-- Het scorebord: [linux.q-highschool.nl](https://linux.q-highschool.nl)
+- Het scorebord: {{ ctfd_site }}
 
   (En deze site mag je dus niet hacken.)
 

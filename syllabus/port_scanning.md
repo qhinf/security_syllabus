@@ -38,9 +38,9 @@ Een voorbeeld van een port scanner is [https://www.advanced-port-scanner.com/](h
 Deze kan je downloaden en uitproberen op je eigen netwerk tegen bijvoorbeeld 
 het IP-adres van je router.
 
-Port scannen van een willekeurige computer op het inter wordt als een offensieve actie beschouwd. Dit is het computer-equivalent van bij alle deuren van de straat kijken welke open staat. Dit levert je een mogelijke aanklacht van huisvredebreuk of in dit geval computervredebreuk op.
+Port scannen van een willekeurige computer op het internet wordt als een offensieve actie beschouwd. Dit is het computer-equivalent van bij alle deuren van de straat kijken welke open staat. Dit levert je een mogelijke aanklacht van huisvredebreuk of in dit geval computervredebreuk op.
 
-Je mag voor deze module wel port scannen op [https://ctf.q-highschool.nl/](https://ctf.q-highschool.nl/).
+Je mag voor deze module wel port scannen op {{ ctf_site }}.
 
 Directory fuzzing
 ---
