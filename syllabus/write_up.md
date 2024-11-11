@@ -12,4 +12,4 @@ Voor de beoordeling van deze module lever je een write-up in op [app.q-highschoo
 
 Voor de beoordeling tellen de flags die je in je write-up hebt beschreven. Je kunt het scorebord gebruiken om te controleren of je flags kloppen.
 
-De deadline voor het inleveren van je write-up is **{{ deadline }}**. Je mag ook gebruik maken van het tweede inlevermoment op **{{ deadline_uitstel }}**, mocht die eerste deadline jou bijzonder slecht uitkomen. Als je dat wilt, laat dat dan voor **{{ deadline_uitstel_aanvragen }}** weten bij je docent.
+De deadline voor het inleveren van je write-up is **{{ eerste_inlevermoment }}**. Je mag ook gebruik maken van het tweede inlevermoment op **{{ tweede_inlevermoment }}**, mocht die eerste deadline jou bijzonder slecht uitkomen. Als je dat wilt, laat dat dan voor **{{ tweede_inlevermoment_melden }}** weten bij je docent.
