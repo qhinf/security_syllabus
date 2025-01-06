@@ -54,11 +54,11 @@ sphinx:
     # een volgende editie.
     myst_substitutions:
       versie: "Globaal afgehandeld. Niet wijzigen."
-      eerste_inlevermoment: "donderdag 16 januari, 16:00"
-      tweede_inlevermoment_melden: "maandag 6 januari, 16:00"
-      tweede_inlevermoment: "dinsdag 4 februari, 16:00"
-      ctf_site: "ctf24252.qhinf.nl"
-      ctfd_site: "ctfd24252.qhinf.nl"
+      eerste_inlevermoment: "donderdag 20 maart, 16:00"
+      tweede_inlevermoment_melden: "maandag 10 maart, 16:00"
+      tweede_inlevermoment: "dinsdag 8 april, 16:00"
+      ctf_site: "ctf24253.qhinf.nl"
+      ctfd_site: "ctfd24253.qhinf.nl"
       docent: "Arthur Rump"
       docent_email: "a.rump apenstaartje quadraam punt nl"
 
