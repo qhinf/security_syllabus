@@ -27,9 +27,11 @@ Het resultaat heet de "ciphertext". Deze ciphertext is een stuk onzin, en het be
 
 ## Slechte encryptie
 
-Het caesarcijfer wordt gezien als een slechte vorm van encryptie. Dit betekent dat een bericht dat versleuteld wordt met het caesarcijfer vaak makkelijk en snel gekraakt kan worden, dus zonder dat je weet hoeveel plekken je elke letter in het alfabet verschuift. Probeer voor jezelf of je deze ciphertext kan kraken: xopnozjovvs. 
+Het caesarcijfer wordt gezien als een slechte vorm van encryptie. Dit betekent dat een bericht dat versleuteld wordt met het caesarcijfer vaak makkelijk en snel gekraakt kan worden, dus zonder dat je weet hoeveel plekken je elke letter in het alfabet verschuift. Probeer voor jezelf of je deze ciphertext kan kraken: xopnozjovvs.
 
 ## Links
+
+Een handige tool om te spelen met versleutelingen en binaire gegevens: [CyberChef](https://gchq.github.io/CyberChef/)
 
 Bekijk het stukje over optellen bij de one-time pad in deze video: [Optellen bij het OTP](https://www.youtube.com/watch?v=cpqwp2H0SNo&t=287s).
 
