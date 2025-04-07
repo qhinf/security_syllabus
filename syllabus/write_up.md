@@ -7,8 +7,8 @@ Voor de beoordeling van deze module lever je een write-up in op [app.q-highschoo
 - Ook van de quiz-flags wil ik een screenshot zien.
 - Je legt uit hoe je de vlag gevonden hebt, in voldoende detail om de flag later terug te kunnen vinden. Vertel ook de stappen die je hebt genomen om achter de informatie te komen die je nodig had.
   - Als je vergeten bent om een screenshot te maken, moet deze uitleg genoeg zijn om dat binnen een minuut alsnog te doen.
-- Je mag geen tekst of screenshots uit anderpersoons writeup kopiëren. Dat is plagiaat en behandelen we ook hier als plagiaat.
-- Wees eerlijk over hoe je informatie hebt gekregen. Je mag alles en iedereen gebruiken, social engineering toepassen, wat je wil, als je er maar eerlijk over bent in je write-up (en het legaal is, natuurlijk).
+- Je mag geen tekst of screenshots uit anderpersoons writeup kopiëren. Dat is plagiaat en behandelen we ook hier als plagiaat. Ook als je samen een flag vindt, dan nog schrijf je je eigen uitleg en maak je je eigen screenshots.
+- Wees eerlijk over hoe je informatie hebt gekregen. Je mag alles en iedereen gebruiken, social engineering toepassen, wat je wil, als je er maar eerlijk over bent in je write-up (en het legaal is, natuurlijk). Vermeld daarbij je bronnen: van websites geef je de link en van personen minimaal de naam.
 
 Voor de beoordeling tellen de flags die je in je write-up hebt beschreven. Je kunt het scorebord gebruiken om te controleren of je flags kloppen.
 
