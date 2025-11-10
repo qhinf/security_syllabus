@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Security: Capture the Flag / Introductie</title>
+    <link rel="stylesheet" href="index.css" />
+</head>
+<body>
+    <div class="reveal" id="security/introductie">
+        <div class="slides">
+            <section>
+                <h1>Security</h1>
+                <p>
+                    Introductie<br/>
+                    Q-highschool | {{ versie }}
+                </p>
+            </section>
+            <section>
+                <p>
+                    Er is een server<br/>
+                    <span class="fragment">die je mag hacken</span>
+                </p>
+                <p class="fragment">
+                    <a href="https://{{ ctf_site }}">{{ ctf_site }}</a>
+                </p>
+            </section>
+            <section>
+                <p>Er is een disclaimer</p>
+                <aside class="notes">
+                    <p>
+                        Alleen die server, niet het scoreboard, niet de portfoliosite, niet het netwerk van jouw school, niet een random website. Alleen de ctf site mag je hacken.
+                    </p>
+                    <p>
+                        Je leert deze module technieken die gewoon hartstikke illegaal zijn als je ze op computers, servers of websites uitoefent waar je geen toestemming hebt. Alleen de ctf site.
+                    </p>
+                </aside>
+            </section>
+            <section>
+                <p>Er zijn flags</p>
+                <p class="fragment">for you  to capture</p>
+                <aside class="notes">
+                    Die vlaggen zijn korte teksten die je te zien krijgt als je een hack succesvol hebt uitgevoerd. Je herkent ze wel zodra je er een vindt.
+                </aside>
+            </section>
+            <section>
+                <p>Er is meer informatie</p>
+                <p class="fragment">
+                    <a href="../">informatica.q-highschool.nl/security</a>
+                </p>
+                <aside class="notes">
+                    Daar vind je ook de link naar de CTF site.
+                </aside>
+            </section>
+            <section>
+                <p>Er is een scorebord</p>
+                <p>
+                    <span class="fragment">Ga naar <a href="https://{{ ctfd_site }}">{{ ctfd_site }}</a></span>
+                    <span class="fragment">en maak een account aan</span>
+                </p>
+            </section>
+            <section>
+                <img src="assets/challenges.png" alt="Overzicht van de challenges op de scorebord website" />
+            </section>
+            <section>
+                <p>Er is een opdracht</p>
+                <p class="fragment">Een write-up</p>
+                <aside class="notes">
+                    <p>Een document waarin je opschrijft welke vlaggen je hebt gevonden, een uitleg hoe je elke vlag hebt gevonden en screenshots van de vlag en de stappen die je hebt genomen.</p>
+                    <ul>
+                        <li>De vlag moet zichtbaar zijn in het screenshot. Geen screenshot, geen punten.</li>
+                        <li>De uitleg is in voldoende detail om de flag later terug te kunnen vinden, inclusief de stappen die je hebt genomen om informatie te vinden.</li>
+                        <li>Wees eerlijk over hoe je informatie hebt verkregen.</li>
+                    </ul>
+                    <p>Laat een voorbeeld van een write-up zien.</p>
+                </aside>
+            </section>
+            <section>
+                <p>Er is een deadline</p>
+                <p>{{ eerste_inlevermoment }}</p>
+                <aside class="notes">
+                    Het is ook mogelijk om van het tweede inlevermoment op {{ tweede_inlevermoment }} gebruik te maken. Laat het voor {{ tweede_inlevermoment_melden }} aan mij weten als je dat wilt.
+                </aside>
+            </section>
+            <section>
+                <p>Er zijn regels</p>
+                <p class="fragment">
+                    1.<br/>
+                    Hack geen servers anders dan<br/>
+                    <a href="https://{{ ctf_site }}">{{ ctf_site }}</a>
+                </p>
+                <aside class="notes">
+                    Dat is namelijk illegaal en kan je een paar gezellige jaren in de gevangenis opleveren voor "computervredebreuk". Hack alleen met expliciete toestemming.
+                </aside>
+            </section>
+            <section>
+                <p>Er zijn regels</p>
+                <p>
+                    2.<br/>
+                    Kopieer geen screenshots of tekst uit anderpersoons write-up
+                </p>
+                <aside class="notes">
+                    Je mag alles en iedereen gebruiken, social engineering toepassen, wat je wil, als je er maar eerlijk over bent in je write-up (en het legaal is, natuurlijk). Maar weers eerlijk over hoe je informatie hebt verkregen. Kopiëren is plagiaat en wordt als zodanig behandeld. Er is wel eens iemand met een 1 naar huis gegaan, dus wees gewaarschuwd.
+                </aside>
+            </section>
+            <section>
+                <h2>Security</h2>
+                <ul class="r-fit-text">
+                    <li class="fragment">Startpunt: <a href="https://{{ ctf_site }}">{{ ctf_site }}</a></li>
+                    <li class="fragment">Scorebord:
+                        <ul>
+                            <li><a href="https://{{ ctfd_site }}">{{ ctfd_site }}</a></li>
+                            <li>Maak een account aan</li>
+                        </ul>
+                    </li>
+                    <li class="fragment">Lezen: <a href="../">informatica.q-highschool.nl/security</a></li>
+                    <li class="fragment">Hacken: kies een challenge en zoek de flag</li>
+                    <li class="fragment">Write-up: zie voorbeeld in Teams</li>
+                    <li class="fragment">Inleveren: lever je write-up in op <a href="https://app.q-highschool.nl">app.q-highschool.nl</a></li>
+                    <li class="fragment">Deadline: {{ eerste_inlevermoment }}</li>
+                </ul>
+            </section>
+        </div>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
