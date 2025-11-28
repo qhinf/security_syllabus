@@ -77,8 +77,8 @@ kan worden, kan je jezelf er tegen wapenen.
 
 De eigenaar van een website kan zo op meerdere manieren getroffen
 worden. Hack pogingen gebeuren veel vaker dan je zou denken, zelfs al is
-je site onbekend. Als een site de beveiliging goed op orde Wanneer er 10
-foute inlogpogingen gedaan worden wordt het IP-adres toegang ontzegd
+je site onbekend. Als een site de beveiliging goed op orde heeft wordt 
+wanneer er 10 foute inlogpogingen worden gedaan het IP-adres toegang ontzegd
 voor 24 uur. Hieronder staat de log melding van de beveiligingssoftware.
 
 ![private-logs](assets/image3.png)
