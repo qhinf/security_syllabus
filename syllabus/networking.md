@@ -65,7 +65,7 @@ aangehouden om een standaard manier van communicatie te hebben. Zie een
 protocol als de grammatica van een taal: er is een vaste zinsopbouw en
 vervoeging van woorden.
 
-De hoofd protocollen waar vele andere op gebaseerd zijn, zijn TCP
+De hoofdprotocollen waar vele andere op gebaseerd zijn, zijn TCP
 (Transmission Control Protocol) en UDP (User Datagram Protocol). TCP
 checkt dat elk bericht netjes is ontvangen en begint de communicatie met
 een driedelige ‘handdruk’. Deze handdruk bevat informatie over de
