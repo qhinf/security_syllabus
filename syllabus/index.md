@@ -23,6 +23,12 @@ De deadline voor het inleveren van je write-up is **{{ eerste_inlevermoment }}**
 
 Bij het hacken mag je alles inzetten: Google, social engineering, brute-force aanvallen. Probeer je te verplaatsen in een echte hacker! Wat niet is toegestaan: plagiaat. Je schrijft je eigen write-up en het is dus niet toegestaan om teksten of screenshots van anderen over te nemen.
 
+:::{seealso}
+
+Vond je dit een leuke module? En wil je meer leren over de cryptografie achter belangrijke beveiligingssystemen? Kijk dan ook eens bij de module [Cryptografie en Getaltheorie](https://informatica.q-highschool.nl/cryptografie_getaltheorie), waar we dieper in de wiskunde daarachter duiken.
+
+:::
+
 In de rest van deze syllabus vind je meer informatie die je kunt gebruiken voor je hackwerk:
 
 ```{tableofcontents}
