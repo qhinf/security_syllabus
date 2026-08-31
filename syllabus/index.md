@@ -1,4 +1,4 @@
-# Security: Capture the Flag
+# {{ titel }}
 
 <!-- Deze regel niet wijzigen! -->
 *Versie {{ versie }}. Jouw docent: {{ docent }} ({{ docent_email }})*
