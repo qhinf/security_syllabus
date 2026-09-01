@@ -9,7 +9,7 @@ Je gaat in deze module praktisch aan de slag: de opdracht is om een website te h
 
 Naast deze CtF website hebben we ook een scorebord: daarop kun je zien welke challenges beschikbaar zijn en kun je controleren of je de juiste flag hebt gevonden. Voor de beoordeling moet je ook een write-up inleveren: daarin leg je uit hoe je iedere flag gevonden hebt en voeg je een screenshot van die flag op de website toe. Denk er dus aan dat je tijdens het hacken bijhoudt wat je doet, want: geen screenshots, geen punten! Zie {doc}`write_up` voor meer informatie.
 
-De deadline voor het inleveren van je write-up is **{{ eerste_inlevermoment }}** (via [app.q-highschool.nl](https://app.q-highschool.nl)). Je mag ook gebruik maken van het tweede inlevermoment op **{{ tweede_inlevermoment }}**, mocht die eerste deadline jou bijzonder slecht uitkomen. Als je dat wilt, laat dat dan voor **{{ tweede_inlevermoment_melden }}** weten bij je docent.
+De deadline voor het inleveren van je write-up is **{{ eerste_inlevermoment }}** (via [app.q-vakken.nl](https://app.q-vakken.nl)). Je mag ook gebruik maken van het tweede inlevermoment op **{{ tweede_inlevermoment }}**, mocht die eerste deadline jou bijzonder slecht uitkomen. Als je dat wilt, laat dat dan voor **{{ tweede_inlevermoment_melden }}** weten bij je docent.
 
 - De CtF site: {{ ctf_site }}
 
@@ -25,7 +25,7 @@ Bij het hacken mag je alles inzetten: Google, social engineering, brute-force aa
 
 :::{seealso}
 
-Vond je dit een leuke module? En wil je meer leren over de cryptografie achter belangrijke beveiligingssystemen? Kijk dan ook eens bij de module [Cryptografie en Getaltheorie](https://informatica.q-highschool.nl/cryptografie_getaltheorie), waar we dieper in de wiskunde daarachter duiken.
+Vond je dit een leuke module? En wil je meer leren over de cryptografie achter belangrijke beveiligingssystemen? Kijk dan ook eens bij de module [Cryptografie en Getaltheorie](https://informatica.q-vakken.nl/cryptografie_getaltheorie), waar we dieper in de wiskunde daarachter duiken.
 
 :::
 

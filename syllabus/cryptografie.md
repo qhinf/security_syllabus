@@ -35,4 +35,4 @@ Een handige tool om te spelen met versleutelingen en binaire gegevens: [CyberChe
 
 Bekijk het stukje over optellen bij de one-time pad in deze video: [Optellen bij het OTP](https://www.youtube.com/watch?v=cpqwp2H0SNo&t=287s).
 
-Interessant? Ga meer de diepte in bij de module [Cryptografie en Getaltheorie](https://informatica.q-highschool.nl/cryptografie_getaltheorie)!
+Interessant? Ga meer de diepte in bij de module [Cryptografie en Getaltheorie](https://informatica.q-vakken.nl/cryptografie_getaltheorie)!

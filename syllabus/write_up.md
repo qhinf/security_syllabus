@@ -1,6 +1,6 @@
 # Write-up
 
-Voor de beoordeling van deze module lever je een write-up in op [app.q-highschool.nl](https://app.q-highschool.nl). In de write-up leg je voor elke challenge die je hebt voltooid uit hoe je de flag hebt gevonden en geef je een screenshot van die flag op de website. Houd je aan deze richtlijnen:
+Voor de beoordeling van deze module lever je een write-up in op [app.q-vakken.nl](https://app.q-vakken.nl). In de write-up leg je voor elke challenge die je hebt voltooid uit hoe je de flag hebt gevonden en geef je een screenshot van die flag op de website. Houd je aan deze richtlijnen:
 
 - Zet je gebruikersnaam op het scorebord bovenaan in je write-up.
 - De flag moet natuurlijk zichtbaar zijn in je screenshot!
