@@ -54,13 +54,13 @@ sphinx:
     # een volgende editie.
     myst_substitutions:
       versie: "Globaal afgehandeld. Niet wijzigen."
-      eerste_inlevermoment: "donderdag 5 november, 16:00" # donderdag in week 8
-      tweede_inlevermoment_melden: "maandag 12 oktober, 16:00" # maandag in week 6
-      tweede_inlevermoment: "dinsdag 1 december, 16:00" # dinsdag in week 3 van het volgende blok
-      ctf_site: "26271.ctf.qinf.nl"
-      ctfd_site: "26271.ctfd.qinf.nl"
-      docent: "Arthur Rump"
-      docent_email: "a.rump apenstaartje quadraam punt nl"
+      eerste_inlevermoment: "donderdag 28 januari, 16:00" # donderdag in week 8
+      tweede_inlevermoment_melden: "maandag 4 januari, 16:00" # maandag in week 6
+      tweede_inlevermoment: "dinsdag 16 februari, 16:00" # dinsdag in de week 3 weken na het eerste inlevermoment?
+      docent: "Pieter van Engelen-san"
+      docent_email: "p punt vanengelen apenstaartje quadraam punt nl"
+      ctf_site: "26272.ctf.qinf.nl"
+      ctfd_site: "26272.ctfd.qinf.nl"
 
 
 # html, repository en launch_buttons instellingen worden globaal voor alle
